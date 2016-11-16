@@ -1,0 +1,10 @@
+D:/projects/fog/trunk/Fog/Build/CMakeFiles/FogBench.dir
+D:/projects/fog/trunk/Fog/Build/CMakeFiles/FogGradient.dir
+D:/projects/fog/trunk/Fog/Build/CMakeFiles/FogGroup.dir
+D:/projects/fog/trunk/Fog/Build/CMakeFiles/Fog.dir
+D:/projects/fog/trunk/Fog/Build/CMakeFiles/ALL_BUILD.dir
+D:/projects/fog/trunk/Fog/Build/CMakeFiles/FogBlend.dir
+D:/projects/fog/trunk/Fog/Build/CMakeFiles/ZERO_CHECK.dir
+D:/projects/fog/trunk/Fog/Build/CMakeFiles/FogSizeOf.dir
+D:/projects/fog/trunk/Fog/Build/CMakeFiles/FogSvg.dir
+D:/projects/fog/trunk/Fog/Build/CMakeFiles/FogTest.dir
